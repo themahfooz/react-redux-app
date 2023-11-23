@@ -32,7 +32,50 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
 }
+
+/*      iiiiii       */
+
+.btn-wrapper button {
+  background-color: red;
+  border: 0px;
+  padding: 10px;
+  border-radius: 4px;
+  color: #fff;
+  box-shadow: #282c34 0px 1px 5px;
+}
+
+.img-wrapper img {
+  width: 80px;
+  margin-top: -15px;
+}
+
+.card-wrapper {
+  height: 100px;
+  width: 500px;
+  border: 1px solid #ccc;
+  margin-left: 10%;
+}
+
+.item {
+  float: left;
+  /* display: inline-block; */
+  width: 120px;
+  padding: 20px;
+  height: 710px;
+}
+
+.add-to-cart img {
+  width: 60px;
+  position: absolute;
+  right: 1%;
+  top: 1%;
+}
+
+
+
+/*      iiiiii       */
